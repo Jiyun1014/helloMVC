@@ -12,8 +12,8 @@
 	<ul>
 		<li>Id : ${customer.id}</li>
 		<li>Password : ${customer.password}</li>
-		<li>Gender : ${customer.name}</li>
-		<li>Name :  ${customer.gender}</li>
+		<li>Name : ${customer.name}</li>
+		<li>Gender :  ${customer.gender}</li>
 		<li>E-mail : ${customer.email}</li>
 	</ul>
 	<p>
